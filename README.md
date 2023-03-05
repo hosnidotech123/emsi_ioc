@@ -4,4 +4,4 @@
 <img src="captures/capt1.png">
 <hr>
 <h4>Exécution</h4>
-<img src="captures/capt2.png">
+<img src="captures/capt2.PNG">
